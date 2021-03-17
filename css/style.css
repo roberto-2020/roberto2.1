@@ -194,7 +194,7 @@ LOGOTIPO
 
 .effect-wrap .effect {
   position: absolute;
-  z-index: -1;
+  z-index: 1;
 }
 
 .effect-1 {
@@ -254,7 +254,7 @@ LOGOTIPO
 .effect-5 {
   height: 50px;
   width: 50px;
-  right: 16%;
+  right: 15%;
   top: 30%;
   display: flex;
   justify-content: space-between;
